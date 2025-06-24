@@ -325,8 +325,8 @@ body {
         font-size: 16px;
         color: #000000;
         text-align: center;
-        padding-inline: 30px; 
-        margin-bottom: 5px;
+        margin-bottom: 4px;
+        padding: 0px;
     }
     .services-content {
         display: flex;
